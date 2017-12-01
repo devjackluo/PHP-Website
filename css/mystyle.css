@@ -1,0 +1,131 @@
+@media (max-width:767px)
+{
+    body {
+
+        padding-top: 20px;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a{
+        color: #fff;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1199px){
+    body{
+
+    }
+}
+
+.navbar-default{
+    background-color: #f18466;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.setHeight{
+    height: 50px;
+}
+
+.setSize{
+    height: 15px;
+    width: 15px;
+}
+
+.setSize2{
+    height: 40px;
+    width: 40px;
+}
+
+main{
+    margin-top: 60px;
+
+}
+
+.error{
+    color: red;
+    border: red solid 2px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.halfwidth{
+    width: 600px;
+    margin: 0 auto;
+}
+
+table{
+    font-family: "Courier New";
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.center>a{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.smallerDates{
+    font-size: 0.7em;
+    color: rgba(0, 0, 0, 0.40);
+}
+
+.fontChange{
+    font-size: 1.5em;
+    color: #ea30a6;
+}
+
+.betterlook{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+.betterlook1{
+    text-align: center;
+}
+
+.adjustW{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.adjustF{
+    font-size: 2em;
+    color: red;
+}
+
+.adjustF3{
+    font-size: 4em;
+    color: red;
+}
+
+.adjustF2{
+    font-size: 1.5em;
+    color: #ff1fe8;
+}
+
+.adjustF4{
+    font-size: 2em;
+    color: #00ff00;
+}
+
+.adjustF5{
+    font-size: 1.1em;
+}
+
+.adjustT{
+    width: 100%;
+    margin: 0 auto;
+    height: 300px;
+}
+
+.navbar-default .navbar-nav>li:last-child>a{
+    color: #426cff;
+    font-size: 0.8em;
+}
